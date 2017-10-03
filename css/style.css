@@ -1,0 +1,166 @@
+.jumbotron {
+	background-image: url(../images/background.jpg);
+	height: 600px;
+	margin-top: 50px;
+}
+
+nav {
+	background-color: white;
+}
+.navbar-brand {
+	font-family: 'Pacifico', cursive;
+	font-size: 2.5em;
+	color:black !important;
+	margin-left: 50px;
+
+}
+
+.navbar-dark {
+	color: black;
+	text-decoration: none;
+}
+
+.nav-link{
+    color: black !important;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 1.5em;
+	margin-left: 30px;
+
+}
+
+.nav-link:hover {
+	color: #cd4839 !important;
+	text-decoration: none;
+}
+
+.navbar-nav {
+	margin-right: 10px;
+}
+
+.bg-dark {
+    background-color: #ffffff!important;
+}
+
+.btn {
+	background-color: #cd4839;
+	color: white;
+	border:none ;
+	margin-right: 60px;
+}
+
+.btn:hover {
+	border: 1px solid #cd4839;
+	background-color: white;
+	color: #cd4839 ;
+}
+
+
+/*navbar*/
+
+
+
+h1 {
+	font-family: 'Open Sans Condensed', sans-serif;
+
+
+}
+
+.display-3 {
+	font-size: 2em;
+	width: 40%;
+	margin-top: 150px;
+	margin-left: 60px;
+	text-align: justify;
+}
+
+.btn-lg {
+	margin-left: 390px;
+	width: 10%;
+	height: 6%;
+	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: #cd4839;
+	border: none;
+	
+}
+
+.btn-primary {
+	color: white;
+}
+
+.btn-lg:hover {
+
+	border: 1px solid #cd4839;
+	background-color: white;
+	color: #cd4839 ;
+}
+
+
+/*jumbotron*/
+
+h3 {
+	font-family: 'Pacifico', cursive;
+	font-size: 3em;
+	text-align: center;
+	margin-top: 100px;
+	padding: 20px;
+	background-color: white;
+	border-bottom: 3px dotted #cd4839;
+	border-top: 3px dotted #cd4839;
+	
+: 
+}
+
+.store {
+	margin-left: 150px;
+	margin-top: 100px;
+}
+
+h2 {
+margin-left: 50px;
+font-family: 'Open Sans Condensed', sans-serif;
+font-size: 1.2em;
+}
+
+
+img {
+	width: 250px;
+	height: 300px;
+	align-content: center;
+}
+
+img:hover {
+	height: 375px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    -o-transition: all 1s ease;
+    -ms-transition: all 1s ease;
+    transition: all 1s ease;
+   
+
+}
+
+.btn-secondary {
+	margin-left: 70px;
+}
+
+.container2 {
+	margin-top: 50px;
+}
+
+#dracula {
+	margin-left: 100px;
+}
+
+/*popup*/
+
+
+
+
+
+
+
+
+
+
+
+
